@@ -10,6 +10,7 @@ export default defineNuxtConfig({
         },
     },
     modules: [
-        '@element-plus/nuxt'
+        '@element-plus/nuxt',
+        '@nuxt/content'
     ],
 })
