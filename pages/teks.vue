@@ -1,3 +1,4 @@
+import { ContentDoc } from '../.nuxt/components';
 <template>
   <div>TEKs</div>
   make tutorial video
@@ -6,4 +7,5 @@
     <li>Pinia</li>
     <li>git</li>
   </ol>
+  <ContentDoc path="/teks" />
 </template>
